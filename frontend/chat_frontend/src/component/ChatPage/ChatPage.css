@@ -1,0 +1,11 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+  }
+  
+  .main{
+    width: 100vw;
+    box-sizing: border-box;
+    display: flex;
+  }
